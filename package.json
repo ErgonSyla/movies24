@@ -1,0 +1,19 @@
+{
+  "name": "movie31",
+  "version": "1.0.0",
+  "description": "Movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndritTytynxhiu/Movie31.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EndritTytynxhiu/Movie31/issues"
+  },
+  "homepage": "https://github.com/EndritTytynxhiu/Movie31#readme"
+}
